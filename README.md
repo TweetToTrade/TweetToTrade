@@ -47,3 +47,7 @@ It automatically detects Solana contract addresses in tweets and adds three simp
 
 ### 🙌 Acknowledgments
 - Built for the **Solana** ecosystem  
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:5px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding:5px;" />
+![Solana Dev](https://img.shields.io/badge/Solana%20Developer-%236C54A3.svg?logo=solana&logoColor=white)
