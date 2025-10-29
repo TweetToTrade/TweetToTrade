@@ -1,23 +1,49 @@
-TweetToTrade Turn tweets into trades — detect Solana contract addresses on X and BUY • COPY • INSPECT in one click.
+## 🐦 What is TweetToTrade?
 
-Create instant Solana actions directly under X/Twitter posts
+**TweetToTrade** is a lightweight, privacy-first browser extension that transforms X (Twitter) posts into instant trading actions.  
+It automatically detects Solana contract addresses in tweets and adds three simple buttons — **BUY • COPY • INSPECT** — directly below the post.
 
-What is TweetToTrade? TweetToTrade is a lightweight, privacy‑first browser extension that detects Solana contract addresses in tweets and adds three quick actions: • BUY: Open the token on pump.fun • COPY: Copy the contract address • INSPECT: View the token on DexScreener
+### Key Features
+- ⚡ **Instant Trading Actions** – Execute **BUY**, **COPY**, or **INSPECT** right under any tweet containing a Solana contract address.  
+- 🧠 **Automatic Detection** – Identifies Solana contract addresses in real time.  
+- 🧩 **Zero Permissions** – No wallet access, tracking, or telemetry.  
+- 🪶 **Lightweight & Fast** – Runs fully in-browser, no servers required.  
+- 🧑‍💻 **Open-Source** – Transparent, community-driven development.  
 
-Key Features • Automatic detection of Solana contract addresses on X • One‑click actions (BUY • COPY • INSPECT) • Zero permissions: no wallet access, no tracking, no telemetry • Fast, minimal, and open‑source
+---
 
-Repositories • Landing (this repo) • Extension: https://github.com/TweetToTrade/Tweet-To-Trade-extension
+### 🔗 Links
+- 🌐 **Website:** [https://www.tweettotrade.xyz](https://www.tweettotrade.xyz)  
+- 🐦 **Twitter (X):** [https://x.com/TweetToTrade](https://x.com/TweetToTrade)  
+- 💬 **Telegram:** [https://t.me/+eL_Lzw_v1us5OWIy](https://t.me/+eL_Lzw_v1us5OWIy)
 
-Links • X/Twitter: https://x.com/TweetToTrade • Telegram: https://t.me/+eL_Lzw_v1us5OWIy • Website: https://www.tweettotrade.xyz/
+---
 
-Roadmap Phase 1: Foundation • Extension MVP • Documentation • Community channels
+### 🗺️ Roadmap
 
-Phase 2: Growth • Token launch • Product improvements and partnerships • User growth and distribution
+#### Phase 1: Foundation ✅  
+- Extension MVP  
+- Documentation  
+- Community channels  
 
-Phase 3: Evolution • Advanced safety checks within x.com • Rug‑pull detection • Multi‑chain support and additional integrations
+#### Phase 2: Growth 🚀  
+- Token launch  
+- Product improvements & partnerships  
+- User growth and distribution  
 
-Privacy & Security
+#### Phase 3: Evolution 🧠  
+- Advanced safety checks within x.com  
+- Rug-pull detection  
+- Multi-chain support & integrations  
 
-• No data collection, analytics, or telemetry • Operates fully in the browser; no servers • See tweettotrade.xyz/privacy-policy for details
+---
 
-![Solana Dev](https://img.shields.io/badge/Solana%20Developer-%236C54A3.svg?logo=solana&logoColor=white)
+### 🔒 Privacy & Security
+- No data collection, analytics, or telemetry  
+- 100% local execution — no external servers  
+- Details: [tweettotrade.xyz/privacy-policy](https://www.tweettotrade.xyz/privacy-policy)
+
+---
+
+### 🙌 Acknowledgments
+- Built for the **Solana** ecosystem  
