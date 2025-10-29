@@ -19,3 +19,5 @@ Phase 3: Evolution • Advanced safety checks within x.com • Rug‑pull detect
 Privacy & Security
 
 • No data collection, analytics, or telemetry • Operates fully in the browser; no servers • See tweettotrade.xyz/privacy-policy for details
+
+![Solana Dev](https://img.shields.io/badge/Solana%20Developer-%236C54A3.svg?logo=solana&logoColor=white)
